@@ -1,0 +1,11 @@
+{
+    "name": "sigit/phpmaster",
+    "description": "my php master",
+    "authors": [
+        {
+            "name": "jugadi08",
+            "email": "rjugadi@yahoo.com"
+        }
+    ],
+    "require": {}
+}
